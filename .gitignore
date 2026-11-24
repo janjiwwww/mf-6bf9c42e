@@ -1,0 +1,6 @@
+.claude-flow/
+.swarm/
+out/
+.claude/
+init.log
+gh_meta.json
